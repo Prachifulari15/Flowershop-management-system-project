@@ -117,7 +117,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(337, 35);
             this.label7.TabIndex = 6;
-            this.label7.Text = "9850398913 , 9272161784";
+            this.label7.Text = "1234567899";
             // 
             // label8
             // 
@@ -139,7 +139,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(340, 35);
             this.label9.TabIndex = 8;
-            this.label9.Text = "rahulfulari44@gmail.com";
+            this.label9.Text = "rahulfulari123@gmail.com";
             // 
             // label10
             // 
