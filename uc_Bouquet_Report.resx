@@ -1,0 +1,77 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btn_Load.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAQ
+        zQAAEM0BQr+NcwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAIhSURBVFhHvdc9
+        SxxRFMbxmyBLIARULCUEDBYRFGNhY4S0KSxjFdIlVmJjSDrBTxAIaCda2KQRUogQsfAzmMZC7fICQSRF
+        EHTzPztz5Xju2Z0xzs6B37L73DP3OLPrvoRms/lfqAns4hSHWEbD6+3EDYtQ4ziHPNA+e/2duGERalsN
+        tSa9Y9pxwyLUbzXQmveOaccPQ3iIVexjHSNm/RviQOul7i2SBtlweWHpTf9iTPV8yHPrO3r1fkXSIDtz
+        vWm0pXp6sJnn0Q8813up/leYcdeSILvscVPt0OmdxDxm0W/X854ByJ0/uJusJ0H2nMsda8f2lkW9xxt3
+        LQl4wUGe8zhYXOCZ7a2CH/KCwxbkHW4HXRku3LBOblin6w9CeIQbf6DcRnYTwlN8xSV+Ytk2dkt2kw2X
+        O9qUba4CNYQ1zOWPW5ddzlwPF2v24CrIvvn+MlNmhwbksuvhYsHb4LaoOcjwEzRiKN9m9PAz9NmDq0Jd
+        vdh1OAW5PAvo2nDLDevkhnVywzq5oaCm8QkvcMfrqYIfZp/fcif66PWVQcnvhz18wXCyngR8a8Ex4nAh
+        /5YPbG8ZlAyP+2wk6zZohSEcqIPEL9zzeotQcuZxn5Vk3QatMIS30G/PS2367uM1xr11QQ1jAysYTNZt
+        EFGPsYjRNusyXL+FL3p9RdywDErOPA4XR15fETcsg5IfqPoPuPrdcBNuWBb1DkcyHE+8ns6a4R/jkuqi
+        bxDvLgAAAABJRU5ErkJggg==
+</value>
+  </data>
+</root>
